@@ -1,0 +1,11 @@
+{
+  "name": "typescriptpractice",
+  "version": "1.0.0",
+  "description": "typescript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"hello world\")"
+  },
+  "author": "wisddom olad",
+  "license": "ISC"
+}
